@@ -1,6 +1,6 @@
 package com.dillir.blockchain;
 
-import com.dillir.blockchain.pojo.BtcCurrency;
+import com.dillir.blockchain.dto.BtcCurrency;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.CommandLineRunner;

@@ -1,4 +1,4 @@
-package com.dillir.blockchain.pojo;
+package com.dillir.blockchain.dto;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonSetter;
